@@ -1,0 +1,5 @@
+interface:
+  display_name: "预包装食品标签全文审核"
+  short_description: "依据GB 7718全文及广告包装法规汇编审核食品标签与声称，给出依据和修改文案"
+  default_prompt: "使用 $review-food-label-gb7718 审核这份食品包装，区分当前合规和新版预审，并给出修改清单。"
+
